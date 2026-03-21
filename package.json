@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/costiz7/Website-Technologies-Scraper#readme",
   "dependencies": {
+    "cheerio": "^1.2.0",
     "parquetjs-lite": "^0.8.7"
   }
 }

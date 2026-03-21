@@ -1,4 +1,5 @@
 import parquet from 'parquetjs-lite';
+import { extractWebsite } from './extractor.js';
 
 //This function reads all website domains from the '.parquet' input file
 async function getWebsitesFromParquet(path) {
@@ -28,11 +29,18 @@ async function getWebsitesFromParquet(path) {
 
 //Testing in main function
 async function main() {
-    console.log('Reading file...');
-    const websites = await getWebsitesFromParquet('./input_data.parquet');
+    //console.log('Reading file...');
+    //const websites = await getWebsitesFromParquet('./input_data.parquet');
 
-    console.log(`Extracted websites: ${websites.length}`);
-    console.log(JSON.stringify(websites, null, " "));
+    //console.log(`Extracted websites: ${websites.length}`);
+    //console.log(JSON.stringify(websites, null, " "));
+
+    //Testing for Extractor
+    const result = await extractWebsite('shopify.com');
+    if(result) {
+        console.log('Server Header: ', result.headers['server']);
+        console.log('Title: ', result.$('title').text());
+    }
 }
 
 main();
