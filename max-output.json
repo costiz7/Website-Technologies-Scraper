@@ -1,6 +1,6 @@
 {
   "scanned_domains_count": 200,
-  "total_unique_technologies": 341,
+  "total_unique_technologies": 343,
   "unique_technologies_list": [
     "AMP",
     "AOS",
@@ -20,6 +20,7 @@
     "Akamai Bot Manager",
     "Akamai Web Application Protector",
     "Akamai mPulse",
+    "Alibaba Cloud CDN",
     "Amazon Advertising",
     "Amazon CloudFront",
     "Amazon S3",
@@ -224,6 +225,7 @@
     "React Redux",
     "Recent Posts Widget With Thumbnails",
     "Redux",
+    "Redux Framework",
     "RequireJS",
     "Responsive Lightbox & Gallery",
     "Rich Plugins Reviews",
@@ -345,6 +347,56 @@
     "wpBakery"
   ],
   "results": {
+    "jcmobilecigars.com": [
+      {
+        "technology": "Squarespace Commerce",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Squarespace",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "TypeScript",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Angular",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Zone.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YUI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Modernizr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
     "somalidisablesupport.com": [
       {
         "technology": "WordPress",
@@ -423,54 +475,14 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "jcmobilecigars.com": [
+    "yourfamilylines.com": [
       {
-        "technology": "Squarespace Commerce",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Squarespace",
+        "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "TypeScript",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Angular",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Zone.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YUI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Modernizr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "szentkristofudvarhaz.hu": [
@@ -508,16 +520,6 @@
       },
       {
         "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "yourfamilylines.com": [
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -663,30 +665,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "gogroupauto.com": [],
     "chavchavadze-m2-41-tbilisi.booked.net": [
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "231selfstorage.com": [
-      {
-        "technology": "AngularJS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Turnstile",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
       {
         "technology": "Cloudflare",
         "proof": "Wappalyzer confidence level: 100%"
@@ -796,9 +775,26 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "coenzwezerijnen.nu": [
+    "gogroupauto.com": [],
+    "231selfstorage.com": [
       {
-        "technology": "Apache HTTP Server",
+        "technology": "AngularJS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Turnstile",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -812,6 +808,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
+    "cytofastmed.com": [],
     "5starremoval.weebly.com": [
       {
         "technology": "Weebly",
@@ -851,6 +848,12 @@
       },
       {
         "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "coenzwezerijnen.nu": [
+      {
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -924,7 +927,92 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "cytofastmed.com": [],
+    "katesworldtravel.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Astra",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Facebook Pixel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bluehost",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
     "3xd.co.uk": [
       {
         "technology": "AngularJS",
@@ -1023,92 +1111,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "katesworldtravel.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Astra",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YouTube",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Facebook Pixel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bluehost",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
     "clotting-guide.online": [
       {
         "technology": "WordPress",
@@ -1163,14 +1165,164 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "dioxoxigenio.com.br": [
+    "38inspect.com": [
       {
-        "technology": "Apache HTTP Server",
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Chart.js",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WordPress Multisite",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-html",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-element",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 0%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Google Font API",
         "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Kinsta",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "newbeaverborough.org": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "TypeScript",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Hello Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "OWL Carousel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Select2",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "FullCalendar",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "largsbaychiropractic.com.au": [
@@ -1269,307 +1421,13 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "38inspect.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Chart.js",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WordPress Multisite",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-html",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-element",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 0%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Kinsta",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "newbeaverborough.org": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "TypeScript",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Hello Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OWL Carousel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Select2",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "FullCalendar",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "fsbwyoming.com": [
-      {
-        "technology": "Amazon Web Services",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Amazon S3",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Plaid",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "sgsextremaratio.it": [
-      {
-        "technology": "Node.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Ubuntu",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Vue.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nuxt.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "msc-manching.de": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Colorlib Sparkling",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Contact Form 7",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
+    "dioxoxigenio.com.br": [
       {
         "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "coastwidemechanicalcentralcoast.com.au": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Divi",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RankMath SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LiteSpeed",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -1651,8 +1509,29 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "ferienwohnung-kastell.de": [],
-    "jobresourcecentre.com": [
+    "fsbwyoming.com": [
+      {
+        "technology": "Amazon Web Services",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Amazon S3",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Plaid",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "msc-manching.de": [
       {
         "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
@@ -1666,61 +1545,27 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Analytics",
+        "technology": "Colorlib Sparkling",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Flywheel",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "253media.com": [
-      {
-        "technology": "Webflow",
+        "technology": "Bootstrap",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Amazon Web Services",
+        "technology": "Contact Form 7",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Ads",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Linkedin Ads",
+        "technology": "Twitter Emoji (Twemoji)",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "jsDelivr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Tag Manager",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Hosted Libraries",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Ads Conversion Tracking",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "cdnjs",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Amazon S3",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Microsoft Clarity",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Linkedin Insight Tag",
+        "technology": "jQuery Migrate",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1728,15 +1573,67 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "sgsextremaratio.it": [
+      {
+        "technology": "Node.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Ubuntu",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Vue.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nuxt.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "coastwidemechanicalcentralcoast.com.au": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Divi",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RankMath SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LiteSpeed",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "Google Analytics",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Facebook Pixel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
+        "technology": "Priority Hints",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1744,15 +1641,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
+        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1770,15 +1659,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Akamai",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "Akamai Bot Manager",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Akamai",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1872,23 +1761,172 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "fisherinvestments.com": [
+    "jobresourcecentre.com": [
       {
-        "technology": "DigiCert",
+        "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Maps",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Leaflet",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Amazon Web Services",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Redux Framework",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Contact Form 7",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "GSAP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slick",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Amazon S3",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slider Revolution",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Select2",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-html",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-element",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Livefyre",
+        "proof": "Wappalyzer confidence level: 0%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MailChimp",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Flywheel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "doortodoororganics.com": [
+    "ferienwohnung-kastell.de": [],
+    "253media.com": [
       {
-        "technology": "AMP",
+        "technology": "Webflow",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Lightbox",
+        "technology": "Amazon Web Services",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Font Awesome",
+        "technology": "Google Ads",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Linkedin Ads",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jsDelivr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Tag Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Hosted Libraries",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Ads Conversion Tracking",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1896,7 +1934,47 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Amazon S3",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Microsoft Clarity",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Linkedin Insight Tag",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Facebook Pixel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -1943,6 +2021,36 @@
       },
       {
         "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "doortodoororganics.com": [
+      {
+        "technology": "AMP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lightbox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "cdnjs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -2009,6 +2117,12 @@
       },
       {
         "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "fisherinvestments.com": [
+      {
+        "technology": "DigiCert",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -2095,52 +2209,6 @@
       },
       {
         "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "genesisny.net": [
-      {
-        "technology": "DreamWeaver",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LiteSpeed",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "familybroker.cz": [
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "5w.design": [
-      {
-        "technology": "AngularJS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Turnstile",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -2272,121 +2340,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "marien-apotheke-grefrath-app.de": [
+    "familybroker.cz": [
       {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudimage",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "11853prospecthill.com": [
-      {
-        "technology": "Handlebars",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Amazon Web Services",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "UserWay",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Slick",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jsDelivr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Tag Manager",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Browser Insights",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "libphonenumber",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Facebook Pixel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "cdnjs",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
+        "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "centreconsiliereavort.ro": [
+    "genesisny.net": [
       {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twenty Twelve",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YouTube",
+        "technology": "DreamWeaver",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -2394,23 +2356,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
+        "technology": "Google Analytics",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -2418,53 +2364,21 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "infoaboutnetwork.com": [
+    "5w.design": [
       {
-        "technology": "WordPress",
+        "technology": "AngularJS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "MySQL",
+        "technology": "Cloudflare Bot Management",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "GeneratePress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "GenerateBlocks",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
+        "technology": "Cloudflare Turnstile",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -2578,7 +2492,206 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "abcdpinturas.com.br": [],
+    "marien-apotheke-grefrath-app.de": [
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudimage",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
+    "centreconsiliereavort.ro": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twenty Twelve",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LiteSpeed",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "infoaboutnetwork.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "GeneratePress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "GenerateBlocks",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "11853prospecthill.com": [
+      {
+        "technology": "Handlebars",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Amazon Web Services",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "UserWay",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slick",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jsDelivr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Tag Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Browser Insights",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "libphonenumber",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Facebook Pixel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "cdnjs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "passwordstore.it": [
       {
         "technology": "WordPress",
@@ -2671,96 +2784,6 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "dssfla.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "anime.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "wpBakery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Select2",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 0%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Isotope",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Dropzone",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bluehost",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "avocatalinamanciu.ro": [
@@ -2866,6 +2889,97 @@
       },
       {
         "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "abcdpinturas.com.br": [],
+    "dssfla.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "anime.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "wpBakery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Select2",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 0%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Isotope",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Dropzone",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bluehost",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -3065,6 +3179,116 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
+    "maniaupiekszania.pl": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "anime.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "OceanWP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "ElementsKit",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WPForms",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor Header & Footer Builder",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Moove GDPR Consent",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lightbox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 0%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Flickity",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
     "sprucemeadowsmd.com": [
       {
         "technology": "WordPress",
@@ -3255,7 +3479,17 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "maniaupiekszania.pl": [
+    "haus-muehlenfeld-pommerby.de": [
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sectigo",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "arenaskolor.se": [
       {
         "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
@@ -3269,23 +3503,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "anime.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OceanWP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "ElementsKit",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WPForms",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor Header & Footer Builder",
+        "technology": "Hello Elementor",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3297,24 +3515,12 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Moove GDPR Consent",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lightbox",
+        "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Twitter Emoji (Twemoji)",
         "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 0%"
       },
       {
         "technology": "jQuery UI",
@@ -3329,15 +3535,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Flickity",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3346,6 +3544,14 @@
       },
       {
         "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Seravo",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3363,30 +3569,6 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "den-a-sha.co.jp": [
-      {
-        "technology": "DreamWeaver",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Adobe Flash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "haus-muehlenfeld-pommerby.de": [
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sectigo",
-        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "boken.ch": [
@@ -3485,7 +3667,21 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "arenaskolor.se": [
+    "den-a-sha.co.jp": [
+      {
+        "technology": "DreamWeaver",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Adobe Flash",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "365outsource.com": [
       {
         "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
@@ -3499,7 +3695,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Hello Elementor",
+        "technology": "Astra",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3511,7 +3707,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Nginx",
+        "technology": "Google Tag Manager",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3531,7 +3727,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Turnstile",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3543,11 +3747,11 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Seravo",
+        "technology": "Hostinger",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HSTS",
+        "technology": "Cloudflare",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3565,6 +3769,10 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "aida-cruises.at": [
@@ -3597,6 +3805,84 @@
       {
         "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "skywayrestaurants.net": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Astra",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "2020wealthadvisory.com": [
@@ -3697,85 +3983,17 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "skywayrestaurants.net": [
+    "hnafirm.com": [
       {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Astra",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
+        "technology": "Ubuntu",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "365outsource.com": [
+    "itsolutions24.pl": [
       {
         "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
@@ -3789,27 +4007,11 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Astra",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Tag Manager",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -3821,48 +4023,12 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Turnstile",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "Priority Hints",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Hostinger",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
         "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
       },
       {
         "technology": "HTTP/3",
@@ -3903,6 +4069,10 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "jQuery Migrate",
         "proof": "Wappalyzer confidence level: 100%"
       },
@@ -3940,78 +4110,6 @@
       },
       {
         "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "mehmetefendimacedonia.com": [
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Hosted Libraries",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cufon",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "SWFObject",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "itsolutions24.pl": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4129,13 +4227,63 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "hnafirm.com": [
+    "mehmetefendimacedonia.com": [
       {
-        "technology": "Ubuntu",
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Hosted Libraries",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cufon",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "SWFObject",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "laplumedelisibilite.fr": [
+      {
+        "technology": "PHP",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -4185,6 +4333,10 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "PhotoSwipe",
         "proof": "Wappalyzer confidence level: 100%"
       },
@@ -4229,36 +4381,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "laplumedelisibilite.fr": [
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery CDN",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
     "westchesterpointechiro.com": [
       {
         "technology": "PHP",
@@ -4290,60 +4412,6 @@
       },
       {
         "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "seringa-safaris.com": [
-      {
-        "technology": "Joomla",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YouTube",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Helix Ultimate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Animate.css",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Popper",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4433,19 +4501,29 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "produkttheater.de": [
+    "seringa-safaris.com": [
       {
-        "technology": "Nginx",
+        "technology": "Joomla",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Sectigo",
+        "technology": "PHP",
         "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "bas-ingenieria.cl": [
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
       {
         "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Helix Ultimate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Animate.css",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4453,15 +4531,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Lightbox",
+        "technology": "jQuery Migrate",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Swiper",
+        "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Isotope",
+        "technology": "Google Analytics",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4469,59 +4547,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap Icons",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "AOS",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "soziale-dreigliederung.de": [
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OpenResty",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Htmx",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "premierhomeremodeling.net": [
-      {
-        "technology": "Sentry",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Node.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "React",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Next.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
+        "technology": "Popper",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4615,32 +4641,99 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "handycars.com": [],
-    "3strandschurch.org": [
+    "soziale-dreigliederung.de": [
       {
-        "technology": "AngularJS",
+        "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare Bot Management",
+        "technology": "OpenResty",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare Turnstile",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
+        "technology": "Htmx",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "antikebau.de": [
+    "premierhomeremodeling.net": [
+      {
+        "technology": "Sentry",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Node.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Next.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "bas-ingenieria.cl": [
+      {
+        "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
       {
         "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lightbox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Isotope",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap Icons",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "AOS",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "produkttheater.de": [
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sectigo",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -4710,6 +4803,35 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
+    "handycars.com": [],
+    "antikebau.de": [
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "3strandschurch.org": [
+      {
+        "technology": "AngularJS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Turnstile",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "alabamabuildingcontractor.com": [
       {
         "technology": "WordPress",
@@ -4752,12 +4874,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "skywardspeech.com.au": [
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
     "resourceservicesolutions.com": [
       {
         "technology": "DreamWeaver",
@@ -4784,13 +4900,9 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "branson-connection.com": [
+    "skywardspeech.com.au": [
       {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OpenResty",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -4902,31 +5014,47 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "europeaninns.com": [
+    "branson-connection.com": [
       {
-        "technology": "Apache HTTP Server",
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "OpenResty",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "massageforworldpeace.com": [
+    "phucankhanggroup.com": [
       {
-        "technology": "Duda",
+        "technology": "Cart Functionality",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "MyWebsite Creator",
+        "technology": "Windows Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "MyWebsite",
+        "technology": "Facebook Login",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "RequireJS",
+        "technology": "Bootstrap",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Apache HTTP Server",
+        "technology": "Microsoft ASP.NET",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "IIS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slick",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "OWL Carousel",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -4942,11 +5070,19 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Hammer.js",
+        "technology": "Isotope",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Sectigo",
+        "technology": "FancyBox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Popper",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5052,37 +5188,37 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "phucankhanggroup.com": [
+    "everhartsoutdoor.com": [
       {
-        "technology": "Cart Functionality",
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "europeaninns.com": [
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "massageforworldpeace.com": [
+      {
+        "technology": "Duda",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Windows Server",
+        "technology": "MyWebsite Creator",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Facebook Login",
+        "technology": "MyWebsite",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Bootstrap",
+        "technology": "RequireJS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Microsoft ASP.NET",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "IIS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Slick",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OWL Carousel",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5098,81 +5234,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Isotope",
+        "technology": "Hammer.js",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "FancyBox",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Popper",
+        "technology": "Sectigo",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "everhartsoutdoor.com": [
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "3bsexcavating.com": [
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "2-com.net": [
-      {
-        "technology": "Microsoft ASP.NET",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LazySizes",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Popper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -5246,6 +5316,24 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
+    "amaronbattery.in": [
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LiteSpeed",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sectigo",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "radxmobile.com": [
       {
         "technology": "Wix eCommerce",
@@ -5292,13 +5380,21 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "amaronbattery.in": [
+    "2-com.net": [
       {
-        "technology": "PHP",
+        "technology": "Microsoft ASP.NET",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "LiteSpeed",
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LazySizes",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5306,7 +5402,45 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Sectigo",
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Popper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "3bsexcavating.com": [
+      {
+        "technology": "AngularJS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Turnstile",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -5325,56 +5459,6 @@
       },
       {
         "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "hansis-knusperhendl-foodtruck.eatbu.com": [
-      {
-        "technology": "Google Cloud",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Adobe Client Data Layer",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Tag Manager",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LazySizes",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Adobe Experience Platform Launch",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Adobe Experience Platform Identity Service",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Adobe Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud CDN",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5461,6 +5545,56 @@
       },
       {
         "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "hansis-knusperhendl-foodtruck.eatbu.com": [
+      {
+        "technology": "Google Cloud",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Adobe Client Data Layer",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Tag Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LazySizes",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Adobe Experience Platform Launch",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Adobe Experience Platform Identity Service",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Adobe Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -5576,84 +5710,70 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "261welfarefund.com": [
+    "buchhaltungsservice-koenig.de": [
       {
-        "technology": "AngularJS",
+        "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare Bot Management",
+        "technology": "MySQL",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare Turnstile",
+        "technology": "PHP",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare",
+        "technology": "UNIX",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "costa-coffee.be": [
-      {
-        "technology": "Contentful",
+        "technology": "Catch Themes Catch Box",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "React",
+        "technology": "Animate.css",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "styled-components",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Gatsby",
+        "technology": "Twitter Emoji (Twemoji)",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Akamai",
+        "technology": "jQuery Migrate",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "OneTrust",
+        "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Tag Manager",
+        "technology": "Priority Hints",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Akamai Bot Manager",
+        "technology": "Preact",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Boomerang",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Akamai mPulse",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
+        "technology": "Sectigo",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PWA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "solvos.nl": [
@@ -5762,116 +5882,17 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "buchhaltungsservice-koenig.de": [
+    "261welfarefund.com": [
       {
-        "technology": "WordPress",
+        "technology": "AngularJS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "MySQL",
+        "technology": "Cloudflare Bot Management",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "UNIX",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Catch Themes Catch Box",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Animate.css",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Preact",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sectigo",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "startravelcompany.com": [],
-    "3dwealthadvisory.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Three.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "anime.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "GoDaddy CoBlocks",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Divi",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
+        "technology": "Cloudflare Turnstile",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5879,57 +5900,49 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "nevsproductions.com": [
+    "costa-coffee.be": [
       {
-        "technology": "Odoo",
+        "technology": "Contentful",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Backdrop",
+        "technology": "React",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PostgreSQL",
+        "technology": "styled-components",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Python",
+        "technology": "Gatsby",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PHP",
+        "technology": "Akamai",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Nginx",
+        "technology": "OneTrust",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Plausible",
+        "technology": "Google Tag Manager",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "jQuery",
+        "technology": "Akamai Bot Manager",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Analytics",
+        "technology": "Boomerang",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
+        "technology": "Akamai mPulse",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5937,11 +5950,11 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Less",
+        "technology": "Webpack",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Popper",
+        "technology": "PWA",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -5949,84 +5962,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "lscms.org": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Elementor",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Contact Form 7",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Isotope",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lightbox",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
+    "startravelcompany.com": [],
     "disinfestazioniepiscine.it": [
       {
         "technology": "WordPress",
@@ -6145,10 +6081,17 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "jackwills.com": [],
-    "layer7innovations.ca": [
+    "lscms.org": [
       {
-        "technology": "YouTube",
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -6156,15 +6099,109 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "Elementor",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Contact Form 7",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Glide.js",
+        "technology": "Isotope",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "cdnjs",
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lightbox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
+    "3dwealthadvisory.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Three.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "anime.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "GoDaddy CoBlocks",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Divi",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -6172,11 +6209,92 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Open Graph",
+        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "jackwills.com": [],
+    "nevsproductions.com": [
+      {
+        "technology": "Odoo",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Backdrop",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PostgreSQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Python",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Plausible",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Less",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Popper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "kande-hoikuen.ed.jp": [
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Hosted Libraries",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -6252,94 +6370,6 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
-      }
-    ],
-    "kande-hoikuen.ed.jp": [
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Hosted Libraries",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "insieme.stanford.edu": [
-      {
-        "technology": "Drupal",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Amazon Web Services",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Acquia Cloud Platform",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Drupal Multisite",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Siteimprove",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "cdnjs",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Acquia Cloud Site Factory",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "DigiCert",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Babel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "deerfieldbeachautomall.com": [
@@ -6440,6 +6470,110 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
+    "insieme.stanford.edu": [
+      {
+        "technology": "Drupal",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Amazon Web Services",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Acquia Cloud Platform",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Drupal Multisite",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Siteimprove",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "cdnjs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Acquia Cloud Site Factory",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "DigiCert",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Babel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "layer7innovations.ca": [
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Glide.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "cdnjs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "makpharma-eg.com": [
       {
         "technology": "GoDaddy Website Builder",
@@ -6489,116 +6623,6 @@
       },
       {
         "technology": "PWA",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "mysterion.hr": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "wpBakery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Smash Balloon Instagram Feed",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "ProfilePress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Contact Form 7",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cookie Information",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MailChimp",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cookie Information plugin",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MailChimp for WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WP Fastest Cache",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Slick",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Facebook Chat Plugin",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Slider Revolution",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Select2",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -6766,30 +6790,81 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "howellmotors.com": [],
-    "cmc01village.com": [
+    "mysterion.hr": [
       {
-        "technology": "Webflow Ecommerce",
+        "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Webflow",
+        "technology": "MySQL",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Tag Manager",
+        "technology": "PHP",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Hosted Libraries",
+        "technology": "Bootstrap",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "reCAPTCHA",
+        "technology": "wpBakery",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Microsoft Clarity",
+        "technology": "Smash Balloon Instagram Feed",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "ProfilePress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Contact Form 7",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cookie Information",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MailChimp",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cookie Information plugin",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MailChimp for WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WP Fastest Cache",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slick",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Facebook Chat Plugin",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Slider Revolution",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Select2",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -6797,15 +6872,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "Google Analytics",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HSTS",
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -6813,7 +6888,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Webpack",
+        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -6825,52 +6900,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "eclairage-solaire-occitanie.com": [
-      {
-        "technology": "Wix eCommerce",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Wix",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sentry",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "React",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud CDN",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
+    "howellmotors.com": [],
     "lorenz-baumarkt.de": [
       {
         "technology": "Shopware",
@@ -6927,6 +6957,110 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
+    "eclairage-solaire-occitanie.com": [
+      {
+        "technology": "Wix eCommerce",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Wix",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sentry",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "cmc01village.com": [
+      {
+        "technology": "Webflow Ecommerce",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webflow",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Tag Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Hosted Libraries",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Microsoft Clarity",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "maiquotes.net": [
@@ -6987,7 +7121,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "wglchurch.com": [],
     "cmresolutions.com": [
       {
         "technology": "Microsoft Word",
@@ -6995,6 +7128,69 @@
       },
       {
         "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "wglchurch.com": [],
+    "nwmotorinn.com": [
+      {
+        "technology": "Cart Functionality",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "AMP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RequireJS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "web-vitals",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Alibaba Cloud CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Netlify",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Babel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PWA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -7073,13 +7269,33 @@
       }
     ],
     "littlerockafamily.de": [],
-    "nwmotorinn.com": [
+    "evelynanders.com": [
       {
-        "technology": "Netlify",
+        "technology": "Sentry",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HSTS",
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "UNIX",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Varnish",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "toastr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -7087,7 +7303,69 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HTTP/3",
+        "technology": "lit-html",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-element",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Font Awesome",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "FancyBox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "cdnjs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "domekvefaru.com": [
+      {
+        "technology": "WebNode",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Hammer.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -7113,10 +7391,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Lightbox",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "Lodash",
         "proof": "Wappalyzer confidence level: 0%"
       },
@@ -7127,76 +7401,6 @@
       {
         "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "jenniferbacksteininteriors.com": [
-      {
-        "technology": "Cart Functionality",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Squarespace Commerce",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Squarespace",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "TypeScript",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Angular",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Stimulus",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Zone.js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YUI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Modernizr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "ideenhunger.com": [
@@ -7289,17 +7493,45 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "domekvefaru.com": [
+    "jenniferbacksteininteriors.com": [
       {
-        "technology": "WebNode",
+        "technology": "Cart Functionality",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PHP",
+        "technology": "Squarespace Commerce",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Hammer.js",
+        "technology": "Squarespace",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "TypeScript",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Angular",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Stimulus",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Zone.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YUI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Modernizr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -7311,82 +7543,24 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "evelynanders.com": [
-      {
-        "technology": "Sentry",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "UNIX",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YouTube",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Varnish",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "toastr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-html",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-element",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Font Awesome",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "FancyBox",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "reCAPTCHA",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "cdnjs",
+        "technology": "HSTS",
         "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
       },
       {
         "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
     "elcolegiocongresosyrestaurante.com": [
@@ -7400,6 +7574,52 @@
       },
       {
         "technology": "Akamai Web Application Protector",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "northshoremacnut.com": [
+      {
+        "technology": "Wix eCommerce",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Wix",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sentry",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -7498,52 +7718,6 @@
       },
       {
         "technology": "Sectigo",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "northshoremacnut.com": [
-      {
-        "technology": "Wix eCommerce",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Wix",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sentry",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "React",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud CDN",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -7652,6 +7826,128 @@
       },
       {
         "technology": "Akamai",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "hoffmaninstitute.co.uk": [
+      {
+        "technology": "Cart Functionality",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Maps",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WooCommerce",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bookly",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "CookieYes",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Ahrefs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Moment.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Microsoft Advertising",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-html",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "lit-element",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 0%"
+      },
+      {
+        "technology": "jQuery UI",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Isotope",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Hammer.js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Constant Contact",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap Icons",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "reCAPTCHA",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -7799,11 +8095,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "hoffmaninstitute.co.uk": [
-      {
-        "technology": "Cart Functionality",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
+    "nicholsonchiro.com": [
       {
         "technology": "WordPress",
         "proof": "Wappalyzer confidence level: 100%"
@@ -7821,15 +8113,11 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "YouTube",
+        "technology": "Animate.css",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WooCommerce",
+        "technology": "Gravity Forms",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -7837,43 +8125,23 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Bookly",
+        "technology": "Apache HTTP Server",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "CookieYes",
+        "technology": "Slick",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Ahrefs",
+        "technology": "OWL Carousel",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Moment.js",
+        "technology": "Google Hosted Libraries",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Microsoft Advertising",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-html",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "lit-element",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 0%"
-      },
-      {
-        "technology": "jQuery UI",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
+        "technology": "Twitter Emoji (Twemoji)",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -7881,11 +8149,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Isotope",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Hammer.js",
+        "technology": "Google Analytics",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -7893,20 +8157,16 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Constant Contact",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap Icons",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "reCAPTCHA",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare",
+        "technology": "Google Font API",
         "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
       },
       {
         "technology": "RSS",
@@ -7917,11 +8177,10 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "jonesbuickgmc.com": [],
     "la-residenza-del-principe-rome-it.booked.net": [
       {
         "technology": "Cloudflare",
@@ -7932,6 +8191,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
+    "jonesbuickgmc.com": [],
     "xn--jobvrkstedet-9cb.nu": [
       {
         "technology": "WordPress",
@@ -8028,45 +8288,17 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "nicholsonchiro.com": [
+    "brucebournesold.com": [
       {
-        "technology": "WordPress",
+        "technology": "Microsoft ASP.NET",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "MySQL",
+        "technology": "RequireJS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Maps",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Animate.css",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Gravity Forms",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Slick",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OWL Carousel",
+        "technology": "Cloudflare",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -8074,7 +8306,19 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Twitter Emoji (Twemoji)",
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Akamai Bot Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "TrackJs",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -8082,7 +8326,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Google Analytics",
+        "technology": "Facebook Pixel",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -8090,28 +8334,20 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "reCAPTCHA",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
         "technology": "Google Font API",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "RSS",
+        "technology": "cdnjs",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Open Graph",
+        "technology": "HSTS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
+        "technology": "Akamai",
+        "proof": "Wappalyzer confidence level: 100%"
       }
     ],
     "pcb-cpb.com": [
@@ -8215,68 +8451,6 @@
       },
       {
         "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "brucebournesold.com": [
-      {
-        "technology": "Microsoft ASP.NET",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RequireJS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Hosted Libraries",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Akamai Bot Manager",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "TrackJs",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Facebook Pixel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "cdnjs",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Akamai",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -8432,78 +8606,6 @@
       {
         "technology": "jQuery",
         "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "bata.edu.hu": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cryout Creations Parabola",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "3-energie-klaas.de": [
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MobX",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Webpack",
-        "proof": "Wappalyzer confidence level: 50%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Module Federation",
-        "proof": "Wappalyzer confidence level: 50%"
       },
       {
         "technology": "HTTP/3",
@@ -8678,10 +8780,141 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "celiabedilia.com": [],
-    "wrinkle-pei.cz": [
+    "bata.edu.hu": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cryout Creations Parabola",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "3-energie-klaas.de": [
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MobX",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Webpack",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Module Federation",
+        "proof": "Wappalyzer confidence level: 50%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "labdemo.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "YouTube",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "The SEO Framework",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
       {
         "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Hosted Libraries",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Select2",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LazySizes",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jsDelivr",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -8767,72 +9000,7 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "labdemo.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "YouTube",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "The SEO Framework",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Hosted Libraries",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Select2",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LazySizes",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jsDelivr",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
+    "celiabedilia.com": [],
     "davidloeppke.com": [
       {
         "technology": "Ruby",
@@ -8840,6 +9008,10 @@
       },
       {
         "technology": "Ruby on Rails",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Varnish",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
@@ -8903,165 +9075,9 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "1stlocksheathscouts.org.uk": [
+    "wrinkle-pei.cz": [
       {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "2agateway.com": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bricks",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RankMath SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "eWAY Payments",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Site Kit",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Formidable Form",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare Bot Management",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Kinsta",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Cloudflare",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "ledestjernenstu.dk": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bootstrap",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Contact Form 7",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Site Kit",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WP Fastest Cache",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "prettyPhoto",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "OWL Carousel",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Tag Manager",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Twitter Emoji (Twemoji)",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Isotope",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
+        "technology": "Nginx",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -9301,7 +9317,180 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "aardvarkelectriccorp.com": [],
+    "2agateway.com": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bricks",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RankMath SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "eWAY Payments",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Site Kit",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Formidable Form",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Kinsta",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "ledestjernenstu.dk": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bootstrap",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Contact Form 7",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Site Kit",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WP Fastest Cache",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "prettyPhoto",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "OWL Carousel",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Tag Manager",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Twitter Emoji (Twemoji)",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Isotope",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "1stlocksheathscouts.org.uk": [
+      {
+        "technology": "AngularJS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Bot Management",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare Turnstile",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Cloudflare",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "tamcconstruction.net": [
       {
         "technology": "WordPress",
@@ -9610,27 +9799,54 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "joseph-herber.business.site": [
+    "aardvarkelectriccorp.com": [],
+    "needaphysio.com": [
       {
-        "technology": "Google My Business",
+        "technology": "Wix eCommerce",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "100wwcstlw.org": [
-      {
-        "technology": "reCAPTCHA",
+        "technology": "Wix",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Cloudflare",
+        "technology": "Sentry",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "React",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lodash",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Priority Hints",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Cloud CDN",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -9708,53 +9924,17 @@
         "proof": "Wappalyzer confidence level: 50%"
       }
     ],
-    "needaphysio.com": [
+    "100wwcstlw.org": [
       {
-        "technology": "Wix eCommerce",
+        "technology": "reCAPTCHA",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
-        "technology": "Wix",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sentry",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "React",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lodash",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Priority Hints",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Cloud CDN",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "RSS",
+        "technology": "Cloudflare",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -9816,7 +9996,16 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "1stclairavewest.com": [],
+    "joseph-herber.business.site": [
+      {
+        "technology": "Google My Business",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
     "arol.cl": [
       {
         "technology": "Apache HTTP Server",
@@ -9831,6 +10020,49 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
+    "sindacatobadanti.it": [
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WebFactory Maintenance",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bunny",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery Migrate",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Bunny Fonts",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "1stclairavewest.com": [],
     "lighthouseprc.org": [
       {
         "technology": "WordPress",
@@ -9881,53 +10113,15 @@
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
         "technology": "RSS",
         "proof": "Wappalyzer confidence level: 100%"
       },
       {
         "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "sindacatobadanti.it": [
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WebFactory Maintenance",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bunny",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery Migrate",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Bunny Fonts",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -10013,132 +10207,6 @@
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
-    "bfnelson.it": [
-      {
-        "technology": "Breakdance",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "WordPress",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "MySQL",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "PHP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "GSAP",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Yoast SEO",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "LiteSpeed",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Unpkg",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Lightbox",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "CookieYes",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Isotope",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "core-js",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HTTP/3",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "construccionesyatecnicas.com": [
-      {
-        "technology": "Plesk",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Nginx",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "jQuery",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Google Font API",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "SWFObject",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
-    "rivithead.com": [
-      {
-        "technology": "Cart Functionality",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Apache HTTP Server",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "UPS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Matomo Analytics",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Swiper",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Sectigo",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "HSTS",
-        "proof": "Wappalyzer confidence level: 100%"
-      },
-      {
-        "technology": "Open Graph",
-        "proof": "Wappalyzer confidence level: 100%"
-      }
-    ],
     "unitedveterinaryservice.com": [
       {
         "technology": "WordPress",
@@ -10198,6 +10266,32 @@
       },
       {
         "technology": "RSS",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "construccionesyatecnicas.com": [
+      {
+        "technology": "Plesk",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Nginx",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "jQuery",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "SWFObject",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
         "proof": "Wappalyzer confidence level: 100%"
       }
     ],
@@ -10297,6 +10391,106 @@
       {
         "technology": "Module Federation",
         "proof": "Wappalyzer confidence level: 50%"
+      }
+    ],
+    "bfnelson.it": [
+      {
+        "technology": "Breakdance",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "WordPress",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "MySQL",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "PHP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "GSAP",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Yoast SEO",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "LiteSpeed",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Unpkg",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Lightbox",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "CookieYes",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Isotope",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "core-js",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Google Font API",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HTTP/3",
+        "proof": "Wappalyzer confidence level: 100%"
+      }
+    ],
+    "rivithead.com": [
+      {
+        "technology": "Cart Functionality",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Apache HTTP Server",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "UPS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Matomo Analytics",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Swiper",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Sectigo",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "HSTS",
+        "proof": "Wappalyzer confidence level: 100%"
+      },
+      {
+        "technology": "Open Graph",
+        "proof": "Wappalyzer confidence level: 100%"
       }
     ]
   }
