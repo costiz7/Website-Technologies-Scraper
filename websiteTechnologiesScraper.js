@@ -45,7 +45,7 @@ async function websiteTechnologiesScraper(path = './input_data.parquet', PACKET_
 
     //Initializing Wappalyzer
     console.log('Starting Wappalyzer...');
-    const wappalyzer = new Wappalyzer({ maxWait: timeOut }); //timeOut before stop
+    const wappalyzer = new Wappalyzer({ maxWait: timeOut }); //This is the maximum wait-time per site
     await wappalyzer.init();
 
     const domainPackets = packetArray(domains, PACKET_SIZE);
@@ -53,7 +53,7 @@ async function websiteTechnologiesScraper(path = './input_data.parquet', PACKET_
     
     for (let i = 0; i < domainPackets.length; i++) {
         const packet = domainPackets[i];
-        console.log(`     -> Processing packet: ${i + 1}/${domainPackets.length}`);
+        console.log(`---------- Processing packet: ${i + 1}/${domainPackets.length}`);
         
         await Promise.all(packet.map(async (domain) => {
             try {
